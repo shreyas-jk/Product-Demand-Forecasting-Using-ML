@@ -3,11 +3,12 @@
 
 ## Table of Contents
 
-- [About](#about)
+- [Demand Forecasting](#about)
 - [Goal](#goal)
+- [Workflow](#workflow)
 - [Required Packages](#require)
 
-## About <a name = "about"></a>
+## Demand Forecasting <a name = "about"></a>
 
 Demand forecasting is the process of making estimations about future customer demand over a defined period, using historical data and other information. 
 
@@ -22,6 +23,28 @@ Tuning traditional algorithms takes a significant amount of effords and domain e
 In this repo, we are trying to figure out a way of predict the same using machine learning algorithms. 
 
 
+
+
+## Workflow <a name = "workflow"></a>
+
+- Handling missing values
+- Feature selection based on my previous experience in Supply chain domain
+- Converting dataset into time series format to apply supervised learning approach.
+- Regression Modeling
+  - Random Forest
+  - XGBoost
+  - SVM (future scope)
+- Hyperparameter Tuning
+
+## Result
+![train](https://github.com/shreyas-jk/Demand-Forecasting-Using-ML/blob/main/final.png?raw=true)
+
+
+## Data <a name = "dataset"></a>
+
+The dataset comprised of units sold on a daily basis along with details regarding the sales, eg. SKU(product id), Store, price etc.
+
+*record_ID,	week,	store_id,	sku_id,	total_price,	base_price,	is_featured_sku,	is_display_sku,	units_sold*
 
 ## Required Packages <a name = "require"></a>
 
