@@ -1,0 +1,80 @@
+argon2-cffi==21.1.0
+async-generator==1.10
+attrs==21.2.0
+backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
+bleach==4.1.0
+certifi==2021.5.30
+cffi==1.14.6
+colorama @ file:///tmp/build/80754af9/colorama_1607707115595/work
+cycler==0.10.0
+decorator @ file:///tmp/build/80754af9/decorator_1621259047763/work
+defusedxml==0.7.1
+easypreprocessing==1.0.3
+entrypoints==0.3
+imbalanced-learn==0.8.0
+importlib-metadata==4.8.1
+ipykernel @ file:///C:/ci/ipykernel_1596206775157/work/dist/ipykernel-5.3.4-py3-none-any.whl
+ipython @ file:///C:/ci/ipython_1593446240034/work
+ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
+ipywidgets==7.6.4
+jedi==0.17.0
+Jinja2==3.0.1
+joblib==1.0.1
+jsonschema==3.2.0
+jupyter==1.0.0
+jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1616770841739/work
+jupyter-console==6.4.0
+jupyter-core @ file:///C:/ci/jupyter_core_1612213536848/work
+jupyterlab-pygments==0.1.2
+jupyterlab-widgets==1.0.1
+kiwisolver==1.3.1
+kneed==0.7.0
+MarkupSafe==2.0.1
+matplotlib==3.3.4
+mistune==0.8.4
+nbclient==0.5.4
+nbconvert==6.0.7
+nbformat==5.1.3
+nest-asyncio==1.5.1
+notebook==6.4.3
+numpy==1.19.5
+opencv-python==4.5.3.56
+packaging==21.0
+pandas==1.1.5
+pandocfilters==1.4.3
+parso @ file:///tmp/build/80754af9/parso_1617223946239/work
+pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
+Pillow==8.3.2
+plotly==5.3.1
+prometheus-client==0.11.0
+prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1616415428029/work
+pycparser==2.20
+Pygments @ file:///tmp/build/80754af9/pygments_1629234116488/work
+pyparsing==2.4.7
+pyrsistent==0.18.0
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+pytz==2021.1
+pywin32==228
+pywinpty==1.1.4
+pyzmq @ file:///C:/ci/pyzmq_1628276569449/work
+qtconsole==5.1.1
+QtPy==1.11.0
+scikit-learn==0.24.2
+scipy==1.5.4
+seaborn==0.11.2
+Send2Trash==1.8.0
+six @ file:///tmp/build/80754af9/six_1623709665295/work
+sklearn==0.0
+tenacity==8.0.1
+terminado==0.11.1
+testpath==0.5.0
+threadpoolctl==2.2.0
+tornado @ file:///C:/ci/tornado_1606942379977/work
+traitlets==4.3.3
+typing-extensions==3.10.0.2
+wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
+webencodings==0.5.1
+widgetsnbextension==3.5.1
+wincertstore==0.2
+xgboost==1.4.2
+zipp==3.5.0
