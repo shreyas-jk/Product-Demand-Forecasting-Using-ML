@@ -1,18 +1,16 @@
 # Demand Forecasting using Machine Learning
 
 
+Demand forecasting is the process of making estimations about future customer demand over a defined period, using historical data and other information. 
+
+Usually organisations follow tranditional forecasting techniques/algorithms such as Auto Arima, Auto Arima, Sarima, Simple moving average and many more.
+
 ## Table of Contents
 
-- [Demand Forecasting](#about)
 - [Goal](#goal)
 - [Workflow](#workflow)
 - [Required Packages](#require)
 
-## Demand Forecasting <a name = "about"></a>
-
-Demand forecasting is the process of making estimations about future customer demand over a defined period, using historical data and other information. 
-
-Usually organisations follow tranditional forecasting techniques/algorithms such as Auto Arima, Auto Arima, Sarima, Simple moving average and many more.
 
 ## Goal <a name = "goal"></a>
 
